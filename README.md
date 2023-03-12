@@ -1,6 +1,6 @@
 # Blockchain
 
-This simple blockchain allows you to mine new blocks and fill each with informations.
+This simple blockchain allows you to mine new blocks, show the blocks anc check the blocks.
 
 
 ''' Get the last block '''
